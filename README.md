@@ -1,7 +1,7 @@
 # Py_List_Comp
 Searching by conditions with list comprehension in Python
 
-[developed by: ](https://www.linkedin.com/in/fernando-betancourt-duque/)
+[developed by: Fernando Betancourt Duque](https://www.linkedin.com/in/fernando-betancourt-duque/)
  
 ## Features
 * Get the dataset from the related *data origin*
